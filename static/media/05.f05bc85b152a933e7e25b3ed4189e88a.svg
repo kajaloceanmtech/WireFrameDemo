@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fe0000;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #343434;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M81.18-18H991.82V14.793H81.18V-18Z"/>
+  <path id="Rectangle_4_copy" data-name="Rectangle 4 copy" class="cls-2" d="M1064.94,126.735H1080v590.3h-15.06v-590.3Z"/>
+  <path id="Rectangle_4_copy_2" data-name="Rectangle 4 copy 2" class="cls-2" d="M-1.062,126.735H14v590.3H-1.062v-590.3Z"/>
+  <rect class="cls-3" y="1034" width="1080" height="46"/>
+  <path id="Rectangle_5_copy" data-name="Rectangle 5 copy" class="cls-4" d="M0,1000.36H1080V1034H0v-33.64Z"/>
+  <path class="cls-2" d="M13,976.515H420.2L385.121,1020H13V976.515Z"/>
+  <path id="Rectangle_6_copy" data-name="Rectangle 6 copy" class="cls-2" d="M1056.23,1019.99H672.99L706,976.5H1056.23v43.49Z"/>
+  <path id="Rectangle_6_copy_2" data-name="Rectangle 6 copy 2" class="cls-2" d="M654.317,1020l-245.324-.01L438.873,976H686Z"/>
+  <path class="cls-2" d="M-0.505,983h1080.7v1.923H-0.505V983Z"/>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #18a5db;
+      }
+
+      .cls-2, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-width: 4.233px;
+        stroke-dasharray: 0.001 8.467;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        stroke: #14549e;
+        stroke-width: 1.058px;
+      }
+
+      .cls-5 {
+        fill: #0d3074;
+      }
+
+      .cls-6 {
+        fill: #14549e;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" width="7.75" height="394"/>
+  <rect id="Rectangle_9_copy_2" data-name="Rectangle 9 copy 2" class="cls-1" x="1073" width="7.75" height="394"/>
+  <path id="Rectangle_9_copy" data-name="Rectangle 9 copy" class="cls-2" d="M-0.125-.219H1080V8.219H-0.125V-0.219Z"/>
+  <rect class="cls-3" x="9.75" y="988.719" width="1064.19" height="87.281" rx="10" ry="10"/>
+  <rect class="cls-4" x="71" y="957.156" width="954" height="62.844"/>
+  <path id="Rectangle_4_copy" data-name="Rectangle 4 copy" class="cls-5" d="M125.15,942.17H620.961L642.776,956l-532.361.17Z"/>
+  <path id="Rectangle_4_copy_2" data-name="Rectangle 4 copy 2" class="cls-5" d="M125.15,1034.14H620.961l21.815-13.83-532.361-.17Z"/>
+  <rect class="cls-6" x="126" y="942.156" width="497.156" height="92.844"/>
+</svg>
