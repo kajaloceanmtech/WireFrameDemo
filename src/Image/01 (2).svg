@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="1080" height="1080">
+
+<g transform="matrix(1 0 0 1 0 0)">
+    <path d="M0 0L7.75 0L7.75 394L0 394z" stroke="none" fill="#18A5DB" fill-rule="nonzero" />
+    <path d="M1073 0L1080.75 0L1080.75 394L1073 394z" stroke="none" fill="#18A5DB" fill-rule="nonzero" />
+    <path d="M-0.125 -0.219L1080 -0.219L1080 8.219L-0.125 8.219L-0.125 -0.219z" stroke="none" fill="#18A5DB" fill-rule="nonzero" />
+    <path d="M9.75 998.719C 9.75 993.19617 14.227153 988.719 19.75 988.719L19.75 988.719L1063.94 988.719C 1069.4628 988.719 1073.94 993.19617 1073.94 998.719L1073.94 998.719L1073.94 1066C 1073.94 1071.5228 1069.4628 1076 1063.94 1076L1063.94 1076L19.75 1076C 14.227153 1076 9.75 1071.5228 9.75 1066L9.75 1066L9.75 998.719z" stroke="#000000" stroke-width="4.233" stroke-linecap="square" stroke-dasharray="0.001,8.467" fill="none" />
+    <path d="M71 957.156L1025 957.156L1025 1020L71 1020z" stroke="#14549E" stroke-width="1.058" fill="#FFFFFF" fill-rule="nonzero" />
+    <path d="M125.15 942.17L620.961 942.17L642.776 956L110.41498 956.17L125.15 942.17z" stroke="none" fill="#0D3074" fill-rule="nonzero" />
+    <path d="M125.15 1034.14L620.961 1034.14L642.776 1020.31L110.41498 1020.14L125.15 1034.14z" stroke="none" fill="#0D3074" fill-rule="nonzero" />
+    <path d="M126 942.156L623.156 942.156L623.156 1035L126 1035z" stroke="none" fill="#14549E" fill-rule="nonzero" />
+</g>
+</svg>

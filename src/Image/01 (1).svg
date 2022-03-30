@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="486" height="486">
+
+<g transform="matrix(0.45 0 0 0.45 0 0)">
+    <path d="M0 0L7.75 0L7.75 394L0 394z" stroke="none" fill="#18A5DB" fill-rule="nonzero" />
+    <path d="M1073 0L1080.75 0L1080.75 394L1073 394z" stroke="none" fill="#18A5DB" fill-rule="nonzero" />
+    <path d="M-0.125 -0.219L1080 -0.219L1080 8.219L-0.125 8.219L-0.125 -0.219z" stroke="none" fill="#18A5DB" fill-rule="nonzero" />
+    <path d="M9.75 998.719C 9.75 993.19617 14.227153 988.719 19.75 988.719L19.75 988.719L1063.94 988.719C 1069.4628 988.719 1073.94 993.19617 1073.94 998.719L1073.94 998.719L1073.94 1066C 1073.94 1071.5228 1069.4628 1076 1063.94 1076L1063.94 1076L19.75 1076C 14.227153 1076 9.75 1071.5228 9.75 1066L9.75 1066L9.75 998.719z" stroke="#000000" stroke-width="4.233" stroke-linecap="square" stroke-dasharray="0.001,8.467" fill="none" />
+    <path d="M71 957.156L1025 957.156L1025 1020L71 1020z" stroke="#14549E" stroke-width="1.058" fill="#FFFFFF" fill-rule="nonzero" />
+    <path d="M125.15 942.17L620.961 942.17L642.776 956L110.41498 956.17L125.15 942.17z" stroke="none" fill="#0D3074" fill-rule="nonzero" />
+    <path d="M125.15 1034.14L620.961 1034.14L642.776 1020.31L110.41498 1020.14L125.15 1034.14z" stroke="none" fill="#0D3074" fill-rule="nonzero" />
+    <path d="M126 942.156L623.156 942.156L623.156 1035L126 1035z" stroke="none" fill="#14549E" fill-rule="nonzero" />
+	<text transform="matrix(1.403 0 0 1.403 213.542 1013.925)" x="0" y="0" style="fill:#FFFFFF;font-family:ABeeZee;font-weight:bold;" font-size="17.424">
+info@oceanmtech.com
+	</text>
+	<g>
+        <image  x="158" y="995" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACUAAAAbCAYAAAD77kbeAAAB5ElEQVRIie2XPWtUQRRAz8aoEVQEsfGjsNIm8SMW1iJRUMFC/Al2VooiEQSJlYiFaFAU8gcstbUzfqASllip0RBtApaK0XjkhnkyrJG83Y27r/DAbrF7594zl5n7eDUVYB9wBRgEanSekJgAhoEnIbUZmAZWdEFmMbb1AKMVEgquhVR/BURydoTUg+r4LPAoztRKoB6GFRCaAnZGp74D+4HbXRYaS7d/DnV7jIX0Oa5O21k+qScyh63xNaNeUPvSjxvU0Q5p3VE3prqr1LNqvZAKnqp7M+ND6tt/JDOlHstqDaiP03+TuVTwVb0chz8Fr1Hvqj+WSWZeHVPXpvxRZ1j9ksX8IVVQVweznRxU37Qp9F49oNZSzl3qq0Xi/ioVfFNHMrH16i31Z5My0eV7aX2R61JDd0pLFTxXd2cJD6sfSgp9VI9kayPP+BJrSkkF82l3q7Mben2JNTezm9WrXix5NktLFbxU92Q7H1LfNcTEnDuaxfSrz5qo0bRUMNcw19ap59LMOZ+6SOrqmRTfDC1JFUw0dI2G7rxoMe9kbxvPqgFgHLgPPARmgU3AEHAS6Gs1ccyMGWBLG3LLzeueCsn85r9UWSorNVsBj5zPITVSHZ8FbhRvyFeBU116Oy6I2mPA6V/jySalWkQrawAAAABJRU5ErkJggg==" width="37" height="27"/>
+	</g>
+	<g>
+        <image  x="163" y="954" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAYAAADwbH0HAAADxElEQVRIibWWbYhWVRDHf/uslousiamFlCQVfQszXyJEqPxkRPZCEkGYkQSKYH5YP4QoFNRCBWISUkJvVEREoBQERWRQGSoqlYWrW6uZa0VkqenuP0b+F6fbfe7zrNLA5Z45Z87MmZfzP9MhiTaoA7gamA/MAq4Cxnv+d+AAsAv4APgeaK00DNd8oyQtlLRN0pBa0xlJX0haJGl0ne46ozMl7Wpiaq+kZyT1StrZROZrSfNGYrghaZmkk1YwXFLYU/KmU9LKJJ/3xH+VI9fS8AtJwW5J3yb+zpoIzU9yA05PQa+2MvxEEt4h6SYrkTc37O3Fpa+IwEbL/uYwf5r0rc+2clUvALamuovqbLiag/qBbldyFcX8IHCt134ATiV+CFgMvBZMYbi4Ft3t3K0LoD+Ay4ATo6xjvY3GKR4ChoE5wDKvPwhc1Ia92H8aeMX8JmCbvX3dNp4HlkS8r5F0zHl4OuXhbc/taXHXq7493rslrT3uub8lXRceTwV2A8eBzen0XcAnwFvnEdnnznoFl6S5lxzF0Ht9M8jsaAv2WlNRiP/RFVV7RSl/E4Ai953ARGCc5y9Ncl2lYgzvJns+/qNtsOG9jWRzSsT+T9/ZGN9jTC5y/ZjzcrlzFPm5zWt9RquI2jRJRyW947V87x8wv9Zrm+TBBi9cKel9jw9506CRK+Rm+BEIZLs1AcMKSY94fLtlPzQfUPmVx/sljS+KLoRm25Mt9naNF5/1f2GqzM8l7fNh9huZfjE8Hkhy07231/+nUpUHft9RCBYvzBHzH5sPIxOTwrnJ0yXG7oLyAcdK+jJBL45i0OGM1fdK+kvS0sQfcV7L9zQUHUz8d5K2S+ouyS2X9LOkh83fZ8P3l7F6JFekw+hWxbdFDZd9o4nyKlLJSJnP1NlkfkwYvMUvUaDXjKRsO3AQWDPSkAA9wCFgX5qLPm0v0AfcFbGf7IQHba5oCPrOA6v7vfflNFdc21OSJgVCHQU2AE/6ZRqwx+N80mnAuoRmdSR/Uy3T5b1D6aXrjXc7F1d/2vB/0Y+FjezFIuAjnxL3ycfcS+OcD9cUTHhwAphn/rMoIuBG8yeBpeek/52bRxMgRAs7xwgV9IZhtC63L1o2oPZm99gFrWrVZfYk4QFDYUGra4wuT3I/Sfom8evaaW8j7wtSV1Km8GpCku92xZ6pkI2X7+6qg9aFbYqk9ySdrlAY7eu7fgYHK9bjEFv9XFbqb+dO3uC39dcmESgf6E3XRq3ekWD1WGAuMP1sB3HunkfLetioFD1a8PUE/AMFXUDVo8vMTAAAAABJRU5ErkJggg==" width="30" height="31"/>
+	</g>
+	<text transform="matrix(1.403 0 0 1.403 213.542 976.925)" x="0" y="0" style="fill:#FFFFFF;font-family:ABeeZee;font-weight:bold;" font-size="17.424">
+www.oceanmtech.com
+	</text>
+	<text transform="matrix(1.328 0 0 1.328 760.615 1000.388)" x="0" y="0" style="fill:#000000;font-family:ABeeZee;" font-size="22.29">
+9978890905
+	</text>
+	<g>
+        <image  x="713" y="971" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAlCAYAAAAqXEs9AAACBUlEQVRYhc2Xv0sdQRSFP42YYCQiQRGNVUQsEsQqoCDaWGhhoY1/RQgkkNpCEASrpDCCqAEbsbRJxIiVguAjT3hPsBCUxIAaEUUxargwK4usb344s8mB0+0dvp3dmXvuA5JVC7wBBoBKIA9c3vFscL0CDoDrmNeAqn8B0wH8vgUTOat2LjW1qM+SBBM5BzxOA6gVONTARM4A1SFhHgJ7hjCRvwNPQwG9tYSJvKVOoHetOwKJPwDFvoH27wGU8f2TFysgV/1RYF6BlhxrBWQeOPUJJOp0/FzTQIlvGFERcGEBsgA0hACJ67MhTD40SKRu4NwAqD8tINTb64A6QkPEL7XXBs/3BGRJ1DfNDp2lDSQR5FgDNZg21LAGSALci7ShVjRQkh7LHNYtUrbWM+CXBmoVKDVcWDLXJLCjPAFU2EL1GlwDiwaZSCabLwm1OReo9wZQEtSaC6zRrk7nXfGlzgZIvvdHAyjp+KPAk1v1kpU2NLXbCXUFJR191rDXyTz3SQ2ZI8BPwzrJ6DU2UKIZi0TgYjm55TZAcqKmAkOt2+6SaCwg0IULkPxT74CrQFDO6gKO/ocdiuu5QZux8dZ9gVB31VCBy8/UP1TL8qaXwFdHmF2g0SdMpBKVu7MWMEdpTDEC1gfMaUasTaApXuiUTSwlzVOG0TagHnikQt4yMA6c3KwH/AUgytPbFg/TYgAAAABJRU5ErkJggg==" width="36" height="37"/>
+	</g>
+	<g>
+        <image  x="71" y="1032" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAgCAYAAAAIXrg4AAAB30lEQVRIibWWvUsDQRDFfwmCoBaKqGChGBFDwNZOsbQWJDZGAgpibelHYSXWon+ArdY2prHRToJNDFjYBCVqYyMIkZVZOMe9vU1MHgy5zLx5e7c39+5S+DENLAFzwBQwJOw68ABcAxdAJUHnDyaAM6ARGGfSE4RV4LMJcRump5C0wHaCyIeEj7MdJ74S03ALbAEzQL/EjORuY3ryWnwkhrgZsKebMb3DUdKFg7AQetOEq/vPbXHcUVx3iJitOZQYcNQ3HDpjprCrkmWH8B7wGuG8AfuOhcpKa8ckr1SyKGQz1ycB43kKZKSnqGpGmyeVnBSyvbK4STFxI7+70jOp6kb711yb4x4hm8vvBmY9C8wKx25Vj9ZLeybjXZ7OjIeTEc57HCEtxmXRC4wqTpdnAV0bFQ2LetrhhPPq/5dnAV3TvZWUjNJBJHkvVmDRByzK2TYklxLxS9lzi7Lq/bn52cAHLQmuBy1re+46YBV3UUK+A2b3x1FrbbTrmutMlgNsIeSF0xAtJ7RZtRLaLH8h14YFckk37egf4kcBQ/GDagvi1VBxHLYbEj5TdKLQhPhas+IWxwHix62KW5Q84qX/ihsYSzcfulrc5HwvrKYwCDxHxF8k11aY76dHCXOcDOAbpZBf+LfKAYwAAAAASUVORK5CYII=" width="24" height="32"/>
+	</g>
+	<text transform="matrix(0.786 0 0 0.786 423.614 1058.922)" x="0" y="0" style="fill:#000000;font-family:ABeeZee;font-weight:bold;" font-size="25">
+
+	</text>
+	<text transform="matrix(0.786 0 0 0.786 423.614 1058.922)" x="-468.025" y="0" style="fill:#000000;font-family:ABeeZee;font-weight:bold;" font-size="25">
+4012, Palladium Mall,Above -Dairy Don, Yogi Chowk,Puna Gam Surat-395010
+	</text>
+</g>
+</svg>
